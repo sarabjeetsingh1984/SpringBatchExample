@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<company>
+    <record refId="1001">
+        <name>Jujaar</name>
+        <age>34</age>
+        <dob>31/8/1982</dob>
+        <income>200,000</income>
+    </record>
+    <record refId="1002">
+        <name>Jagdeep</name>
+        <age>31</age>
+        <dob>26/7/1983</dob>
+        <income>100,999</income>
+    </record>
+    <record refId="1003">
+        <name>Sarajeet Singh</name>
+        <age>31</age>
+        <dob>21/8/1984</dob>
+        <income>1,000,000</income>
+    </record>
+    <record refId="1004">
+        <name>Kamal</name>
+        <age>30</age>
+        <dob>21/3/1984</dob>
+        <income>80,000.89</income>
+    </record>
+    <record refId="1005">
+        <name>Surjit Kour</name>
+        <age>58</age>
+        <dob>26/7/1983</dob>
+        <income>100,999</income>
+    </record>
+    <record refId="1006">
+        <name>Dalip Singh</name>
+        <age>59</age>
+        <dob>26/7/1983</dob>
+        <income>100,999</income>
+    </record>
+    
+</company>
